@@ -1,0 +1,134 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    
+
+}
+.top-container{
+    background-color: cornsilk;
+    margin-top: 0px;
+    padding: 100px;
+    position: relative;
+ 
+}
+#head2{
+    text-align: center;
+}
+h1{
+
+    margin-top: 0px;
+    font-size: 2.625em;
+    font-family: 'Norican', cursive;
+    margin: 0px auto 0 auto;
+    color: #408073;
+}
+hr{
+    border: dotted #d4f8e8 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 30px auto;
+}
+h2{
+    color: #408073;
+}
+
+h3{
+    color: #408073;
+}
+p{
+    
+font-family: 'Bellota', cursive;
+}
+.image0{
+    height: 400px;
+}
+.image1{
+    width: 100px;
+    position: absolute;
+left: 100px;   
+top: 100px;
+
+}
+.image2{
+    width: 100px;
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+    right: 50px;
+    bottom: 40px;
+    
+}
+.skill-row{
+ width: 50%;   
+margin: 100px auto 100px auto ;
+text-align: left;
+line-height: 2;
+}
+
+.myButton {
+    margin-top: 20px;
+	box-shadow:inset 0px 1px 0px 0px #f9eca0;
+	background:linear-gradient(to bottom, #f0c911 5%, #f2ab1e 100%);
+	background-color:#f0c911;
+	border-radius:42px;
+	border:3px solid #e65f44;
+	display:inline-block;
+	cursor:pointer;
+	color:#c92200;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:16px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ded17c;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f2ab1e 5%, #f0c911 100%);
+	background-color:#f2ab1e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.imag{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.iimag{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+description{
+    color: ffa34d;
+   
+
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color:#1eb2a6;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+}
+a{
+    margin: 20px 40px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: floralwhite;
+
+}
+.copy{
+    color: floralwhite;
+    font-size: 0.78rem;
+    padding:20px 0;
+}
